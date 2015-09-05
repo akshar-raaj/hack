@@ -1,0 +1,13 @@
+MANIFEST.in
+setup.py
+pack/__init__.py
+pack/hello.py
+pack/hello_and_namaste.py
+pack/namaste.py
+pack/packchild/__init__.py
+pack/packchild/hola.py
+pack/static/pack.js
+packers.egg-info/PKG-INFO
+packers.egg-info/SOURCES.txt
+packers.egg-info/dependency_links.txt
+packers.egg-info/top_level.txt

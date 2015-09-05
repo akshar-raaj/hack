@@ -1,0 +1,1 @@
+Trying out how to package and distribute a single module project

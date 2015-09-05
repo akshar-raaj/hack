@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 #
 # hack documentation build configuration file, created by
-# sphinx-quickstart on Sat Sep  5 12:39:11 2015.
+# sphinx-quickstart on Sat Sep  5 17:09:33 2015.
 #
 # This file is execfile()d with the current directory set to its
 # containing dir.
@@ -29,7 +29,9 @@ import shlex
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = []
+extensions = [
+    'sphinx.ext.autodoc',
+]
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -47,8 +49,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'hack'
-copyright = u'2015, akshar raaj'
-author = u'akshar raaj'
+copyright = u'2015, akshar'
+author = u'akshar'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -223,7 +225,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
   (master_doc, 'hack.tex', u'hack Documentation',
-   u'akshar raaj', 'manual'),
+   u'akshar', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of

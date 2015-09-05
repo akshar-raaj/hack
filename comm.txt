@@ -1,0 +1,89 @@
+Independent events
+HT
+HMT
+
+H and M: 1/6
+H and not M: 1/2 * 2/3: 1/3
+not H and M: 1/6
+not H and not M: 1/3
+
+Probability of getting H or M: 2/3
+H gets chosen no matter what gets chosen in second independent event: 1/2
+M gets chosen no matter what got chosen in first independent event: 1/3
+H associated with M is already counted, so remove it: 5/6 - 1/6: 2/3
+P(A or B) = P(A) + P(B) - P(A and B)
+
+P(H or M) = P(H and not M) + P (H and M) + P(not H and M)
+		  = 1/3 + 1/6 + 1/6
+		  = 2/3
+
+ABCA: 12 permutations, 2 favourable: Probability 1/6.
+Permutation:
+3 things taken 2 at a time -> 6
+abc
+
+P(Akshar on Dec 18) = 1/365
+P(Shloka on Dec 18) = 1/365
+P(Akshar on Dec 18 and Shloka on Dec 18) = 1/365 * 1/365
+There are two days in a year. Let's say them Christmas and Halloween. Probability of any person being born on Christmas is 1/2.
+We are three people in the room.
+P(A born on Christmas) = 1/2
+P(B born on Christmas) = 1/2
+P(C born on Christmas) = 1/2
+A on Christmas, B on Christmas, C on Christmas
+A on Christmas, B on Christmas, C not on Christmas
+A on Christmas, B not on Christmas, C on Christmas
+A on Christmas, B not on Christmas, C on Christmas
+A not on Christmas, B on Christmas, C on Christmas
+A not on Christmas, B on Christmas, C not on Christmas
+A not on Christmas, B not on Christmas, C on Christmas
+A not on Christmas, B not on Christmas, C on Christmas
+
+HT
+HT
+
+BBRRR 1/5
+B and B 2/5 * 1/4 = 1/10
+B and R: 2/5 * 3/4 = 3/10
+R and R 3/5 * 1/2 = 3/10
+R and B 3/5 * 2/4 = 3/10
+
+4/25
+
+For dependent events:
+P(A and B) = P(A) X P(B|A)
+
+
+a (1 among b and c) -> 1 * 2 -> 2
+
+4 taken 2 at a time -> 12
+abcd
+a (1 among b, c and d) -> 1 * 3
+
+4 taken 3 at a time -> 24
+abcd
+a (2 among b, c, d)
+
+5 taken 2 at a time
+5 * 4
+
+n!/(n-r)!
+
+No. of possible outcomes while tossing 3 coins: 8
+No. of possible outcomes while tossing 2 coins: 4
+
+64
+
+
+Combination:
+abc
+
+3 taken 3 at a time: 3
+
+3 taken 2 at a time
+abc : 6/2: 3
+
+4 taken 2 at a time: 12/2 : 6
+
+5 taken 3 at a time: 60/6: 10
+n!/(r!(n-r)!)

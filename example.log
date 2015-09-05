@@ -1,0 +1,4 @@
+DEBUG:root:debugger
+INFO:root:loog file blog
+INFO:root:child logger
+WARNING:root:I warned you
