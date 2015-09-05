@@ -1,3 +1,4 @@
+# Counts the number of words in a web page.
 import requests
 
 def count(url):
